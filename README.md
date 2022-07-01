@@ -5,5 +5,5 @@
 ![interface do site](./images/interface3.png "interface do site 3")
 ![interface do site](./images/interface4.png "interface do site 4")
 
-#### O html base (houve alterações) é deste gitlab : <a target="_blank"> https://gitlab.com/karensantos/project-flexbox-dio </a>
+#### O html base (houve alterações) é do gitlab <a href="https://gitlab.com/karensantos/project-flexbox-dio" target="_blank"> karensantos/project-flexbox-dio</a>
 
