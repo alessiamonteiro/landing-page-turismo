@@ -1,4 +1,4 @@
-#Projeto landing page de turismo utilizando flexbox
+Projeto landing page de turismo utilizando flexbox
 
 ![interface do site](./images/interface1.png "interface do site 1")
 ![interface do site](./images/interface2.png "interface do site 2")
