@@ -1,4 +1,4 @@
-# Projeto landing page de uma empresa de turismo para praticar os conhecimentos de Flexbox.
+# Landing page de uma empresa de turismo para praticar os conhecimentos de Flexbox.
 
 ![interface do site](./images/interface1.png "interface do site 1")
 ![interface do site](./images/interface2.png "interface do site 2")
